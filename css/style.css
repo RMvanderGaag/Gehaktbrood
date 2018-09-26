@@ -1,0 +1,103 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.Menu {
+    margin: 0 auto;
+    width: 60%;
+    padding-top: 100px;
+
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 36px;
+}
+
+.paragraaf {
+    font-size: 24px;
+    line-height: 32px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 32px;
+    padding-top: 40px;
+}
+
+
+.list {
+    padding-top: 10px;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.numberlist {
+    padding-top: 20px;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+
+.mainList {
+    padding-bottom: 40px;
+}
+
+
+
+.tip {
+    background-color: #def6ed;
+    border-radius: 4px;
+    padding: 25px;
+    line-height: 26px;
+    font-size: 20px;
+
+}
+
+#NavBar {
+    list-style-type: none;
+    position: absolute;
+    top: -60px;
+    width: 60%;
+
+}
+
+.Gerechten {
+    float: left;
+    text-decoration: none;
+    color: black;
+    margin-left: 150px;
+    margin-top: 90px;
+    font-size: 20px;
+    width: 11%;
+}
+
+
+.Gerechten:hover {
+    font-weight: bold;
+}
+
+#materiaal {
+    padding-bottom: 40px;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.vl {
+    position: absolute;
+    border-left: 2px dotted grey;
+    height: 40px;
+    margin-left: 375px;
+    top: 43px;
+}
+
+.vl1 {
+    position: absolute;
+    border-left: 2px dotted grey;
+    height: 40px;
+    margin-left: 650px;
+    top: 43px;
+}
